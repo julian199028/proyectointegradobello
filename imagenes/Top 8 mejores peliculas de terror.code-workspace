@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "RETO",
+			"path": ".."
+		},
+		{
+			"name": "Las mejores peliculas de terror",
+			"path": "../../Las mejores peliculas de terror"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Las mejores peliculas de terror"
+	}
+}
